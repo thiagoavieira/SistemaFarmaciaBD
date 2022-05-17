@@ -1,4 +1,4 @@
-USE auladba2;
+USE projetodba;
 --visão que mostra o código da venda, nome do produto, a data e a quantidade de itens de todas 
 --as vendas na tabela item_venda
 CREATE OR ALTER VIEW view_vendas AS
